@@ -1,2 +1,2 @@
 # slack-bot
-slack-bot which can turn fetch you random advices and some jokes.
+slack-bot which can fetch you random advices and some jokes.
